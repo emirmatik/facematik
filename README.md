@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Full Stack Facebook/Twitter Clone with features below:
+- User Signup-Login pages.
+- Search for users.
+- Sending friend request to someone.
+- Getting notifications if someone accept your friend request or send you a friend request.   
+- You can see the profiles and posts of your friends, otherwise you can not.
+- You can like a post or leave a comment.
+
+Live link is here => https://facematik.netlify.app/#/
+ 
 
 ## Available Scripts
 
